@@ -1,5 +1,6 @@
 # IBMGACUST
-## IBM Generative AI for Customer Support Specialization
+
+## IBM Generative AI for Customer Support Specialization (3 course series)
 
 As per Gartner, 85% of customer service leaders now plan to adopt conversational generative AI. As businesses turn to AI, this Generative AI for Customer Support specialization teaches customer support professionals, managers, and startup and small business owners how to leverage generative AI effectively in just 3 weeks! 
 
